@@ -8,7 +8,9 @@ https://github.com/marinisaac1/Energartic
 
 ## Life visualization
 
+- https://public.tableau.com/views/TidalEnergy/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
 - https://public.tableau.com/views/Tidalenergyperyear/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+- https://public.tableau.com/app/profile/marco.marin2147/viz/WaveEnergy/Dashboard1?publish=yes
 - https://public.tableau.com/shared/NQJXJ9YQ3?:display_count=n&:origin=viz_share_link
 
 ## Idea 
