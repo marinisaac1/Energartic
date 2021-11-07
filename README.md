@@ -72,6 +72,6 @@ References used for the state of art of the marine energy, calculations, and sup
 
 [Natalia Espinosa]: <https://www.linkedin.com/in/natalia-andrea-espinosa-gonzalez-242591161/>
 [Marco Marin]: <https://www.linkedin.com/in/marcomaringranados/>
-[Alvaro]: <>
+[Alvaro]: <https://www.linkedin.com/in/%C3%A1lvaro-carpinteiro-685ab368/>
   
    
