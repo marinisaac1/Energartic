@@ -34,10 +34,10 @@ The arctic is a very complex and wild scenario for living, as the climate condit
 
 Besides, generating electricity in the arctic can open up new possibilities for businesses, such as remote exploration probes, underwater data centers, or even electricity exporting.
 
-##Team
-- Natalia Espinosa | Data Engineer
+## Team
+- [Natalia Espinosa] | Data Engineer | 
 - Alvaro Carpinteiro | Business Manager
-- Marco Marin | Software Engineer
+- [Marco Marin] | Software Engineer
 
 ## References
 References used for the state of art of the marine energy, calculations, and supporting the feasibility of the platform on possible client
@@ -68,6 +68,8 @@ References used for the state of art of the marine energy, calculations, and sup
 [Oref]: <https://www.oref.co.uk/orkneys-energy/wave-tide/>
 [eia]:<https://www.eia.gov/energyexplained/hydropower/tidal-power.php>
 
-
+[Natalia Espinosa]: <https://www.linkedin.com/in/natalia-andrea-espinosa-gonzalez-242591161/>
+[Marco Marin]: <https://www.linkedin.com/in/marcomaringranados/>
+[Alvaro]: <>
   
    
