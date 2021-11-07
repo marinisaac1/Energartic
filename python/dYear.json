@@ -1,0 +1,47 @@
+{
+    "datasetId": "EO:MO:DAT:ARCTIC_REANALYSIS_PHYS_002_003:dataset-ran-arc-day-myoceanv2-be",
+    "boundingBoxValues": [
+      {
+        "name": "bbox",
+        "bbox": [
+          -37.935066865439886,
+          64.53356302549301,
+          -35.355683548394815,
+          66.15370734881407
+        ]
+      }
+    ],
+    "dateRangeSelectValues": [
+      {
+        "name": "position",
+        "start": "2019-01-01T00:00:00.000Z",
+        "end": "2019-12-31T00:00:00.000Z"
+      }
+    ],
+    "multiStringSelectValues": [
+      {
+        "name": "variable",
+        "value": [
+          "model_depth"
+        ]
+      }
+    ],
+    "stringChoiceValues": [
+      {
+        "name": "service",
+        "value": "ARCTIC_REANALYSIS_PHYS_002_003-TDS"
+      },
+      {
+        "name": "product",
+        "value": "dataset-ran-arc-day-myoceanv2-be"
+      },
+      {
+        "name": "startDepth",
+        "value": "Surface"
+      },
+      {
+        "name": "endDepth",
+        "value": "Surface"
+      }
+    ]
+  }
