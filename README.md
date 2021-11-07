@@ -1,4 +1,15 @@
-# Energarctic team
+![](https://github.com/marinisaac1/Energartic/blob/main/logo/bannerSmall.png?raw=true)
+
+## Taikai space 
+https://taikai.network/en/cassinihackathons/challenges/connectingthearctic/projects/ckvmo241y3478660s4qvp8fhbed/idea
+
+## GitHub 
+https://github.com/marinisaac1/Energartic
+
+## Life visualization
+
+- https://public.tableau.com/views/Tidalenergyperyear/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+- https://public.tableau.com/shared/NQJXJ9YQ3?:display_count=n&:origin=viz_share_link
 
 ## Idea 
 Energy is a key resource for human development.
@@ -11,26 +22,24 @@ We are working on a platform that shows up the potential power that can be harve
 
 Using the Arctic as an optical fiber bridge between two continents, connecting the world and connecting the Arctic to the world. Transforming the Artic into a smart region with massive deployment of servers with zero-cost cooling.
 
-#EU Space Technologies
+## EU Space Technologies
 In this initial stage of the project, we are using datasets exposed by Copernicus regarding sea speed, sea depth, as well as wave swell height, and wave direction.
 
 Later on, we are planning to include information regarding ice speed, ice depth to avoid ice impacts with the kinetic generators, as well as information regarding Biogeochemistry for minimizing the impact in wildlife.
 
-#Connecting the Artic 
+## Connecting the Artic 
 Life on land
 
 The arctic is a very complex and wild scenario for living, as the climate conditions such as wind, sunlight, and temperature require the investment of large amounts of energy to make suitable the life.
 
 Besides, generating electricity in the arctic can open up new possibilities for businesses, such as remote exploration probes, underwater data centers, or even electricity exporting.
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-#Team
+##Team
 - Natalia Espinosa | Data Engineer
 - Alvaro Carpinteiro | Business Manager
 - Marco Marin | Software Engineer
 
-# References
+## References
 References used for the state of art of the marine energy, calculations, and supporting the feasibility of the platform on possible client
 
 - Tidal energy Australia (References folder)
@@ -48,7 +57,6 @@ References used for the state of art of the marine energy, calculations, and sup
 - [Sabella] - D10 turbine
 - [Oref] - Wave tidal energy projects
 - [eia] - Tidal power
-
 
 [Microsoft]:<https://natick.research.microsoft.com>
 [Global Petrol prices]: <https://www.globalpetrolprices.com/energy_mix.php?countryId=221>
